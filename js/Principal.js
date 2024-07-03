@@ -1,4 +1,6 @@
-/*Se tienen N sobres con dinero, cada uno con billetes del mismo valor. 
+/*
+240703-0923-G) Tst Project IDX
+Se tienen N sobres con dinero, cada uno con billetes del mismo valor. 
 De cada sobre se conoce el valor del billete y la cantidad. Se requiere
  determinar el total de dinero: a. en cada sobre, b. entre todos los sobres.
 El cliente entrega el siguiente formato para la presentación de la salida:
